@@ -20,7 +20,7 @@
     },
     {
         "ApplicableVersion": "any",
-        "AssemblyVersion": "1.0.0.2",
+        "AssemblyVersion": "1.0.0.3",
         "Author": "Puni.sh (Taurenkey)",
         "DalamudApiLevel": 8,
         "Description": "Automates certain Gold Saucer mini-games.",
