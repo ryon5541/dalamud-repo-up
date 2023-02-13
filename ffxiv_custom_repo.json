@@ -77,7 +77,7 @@
     {
         "AcceptsFeedback": false,
         "ApplicableVersion": "any",
-        "AssemblyVersion": "0.1.0.110",
+        "AssemblyVersion": "0.1.0.115",
         "Author": "Asteria Nocturna",
         "CategoryTags": [
             "utility"
@@ -103,7 +103,7 @@
     {
         "AcceptsFeedback": true,
         "ApplicableVersion": "any",
-        "AssemblyVersion": "0.1.0.31",
+        "AssemblyVersion": "0.1.0.35",
         "Author": "Asteria Nocturna",
         "CategoryTags": [
             "social",
