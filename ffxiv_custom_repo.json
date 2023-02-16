@@ -1222,7 +1222,7 @@
     },
     {
         "ApplicableVersion": "any",
-        "AssemblyVersion": "1.1.6.7",
+        "AssemblyVersion": "1.2.0.0",
         "Author": "UnknownX",
         "CategoryTags": [
             "jobs"
