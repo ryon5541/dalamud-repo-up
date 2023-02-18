@@ -1,7 +1,7 @@
 [
     {
         "ApplicableVersion": "any",
-        "AssemblyVersion": "1.0.6.4",
+        "AssemblyVersion": "1.0.6.5",
         "Author": "Taurenkey & Puni.sh",
         "DalamudApiLevel": 8,
         "Description": "The all-in-one crafting plugin.",
