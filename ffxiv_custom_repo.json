@@ -1390,23 +1390,6 @@
     },
     {
         "ApplicableVersion": "any",
-        "AssemblyVersion": "8.1.8442.6615",
-        "Author": "attick, daemitus, VariableVixen",
-        "DalamudApiLevel": 8,
-        "Description": "This plugin condenses combos and mutually exclusive abilities onto a single button. To a degree that some would call absurd, but that's why it's all configurable. Let the players decide.",
-        "DownloadCount": 0,
-        "DownloadLinkInstall": "https://github.com/PrincessRTFM/MyDalamudPlugins/raw/master/plugins/XIVComboVX/latest.zip",
-        "DownloadLinkTesting": "https://github.com/PrincessRTFM/MyDalamudPlugins/raw/master/plugins/XIVComboVX/latest.zip",
-        "DownloadLinkUpdate": "https://github.com/PrincessRTFM/MyDalamudPlugins/raw/master/plugins/XIVComboVX/latest.zip",
-        "InternalName": "XIVComboVX",
-        "IsHide": false,
-        "IsTestingExclusive": false,
-        "LastUpdated": "1676086937",
-        "Name": "XIV Combo Very Expanded",
-        "RepoUrl": "https://github.com/PrincessRTFM/XIVComboPlugin"
-    },
-    {
-        "ApplicableVersion": "any",
         "AssemblyVersion": "7.0.8442.6653",
         "Author": "VariableVixen",
         "DalamudApiLevel": 8,
@@ -1418,9 +1401,26 @@
         "InternalName": "TinyCmds",
         "IsHide": false,
         "IsTestingExclusive": false,
-        "LastUpdated": "1676086937",
+        "LastUpdated": "1676839348",
         "Name": "TinyCommands",
         "RepoUrl": "https://github.com/PrincessRTFM/TinyCommands"
+    },
+    {
+        "ApplicableVersion": "any",
+        "AssemblyVersion": "8.1.8450.37256",
+        "Author": "attick, daemitus, VariableVixen",
+        "DalamudApiLevel": 8,
+        "Description": "This plugin condenses combos and mutually exclusive abilities onto a single button. To a degree that some would call absurd, but that's why it's all configurable. Let the players decide.",
+        "DownloadCount": 0,
+        "DownloadLinkInstall": "https://github.com/PrincessRTFM/MyDalamudPlugins/raw/master/plugins/XIVComboVX/latest.zip",
+        "DownloadLinkTesting": "https://github.com/PrincessRTFM/MyDalamudPlugins/raw/master/plugins/XIVComboVX/latest.zip",
+        "DownloadLinkUpdate": "https://github.com/PrincessRTFM/MyDalamudPlugins/raw/master/plugins/XIVComboVX/latest.zip",
+        "InternalName": "XIVComboVX",
+        "IsHide": false,
+        "IsTestingExclusive": false,
+        "LastUpdated": "1676839348",
+        "Name": "XIV Combo Very Expanded",
+        "RepoUrl": "https://github.com/PrincessRTFM/XIVComboPlugin"
     },
     {
         "ApplicableVersion": "any",
@@ -1435,7 +1435,7 @@
         "InternalName": "WoLua",
         "IsHide": false,
         "IsTestingExclusive": false,
-        "LastUpdated": "1676086937",
+        "LastUpdated": "1676839348",
         "Name": "WoLua",
         "RepoUrl": "https://github.com/PrincessRTFM/WoLua"
     }
