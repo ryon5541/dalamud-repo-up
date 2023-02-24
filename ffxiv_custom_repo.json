@@ -130,7 +130,7 @@
     {
         "AcceptsFeedback": true,
         "ApplicableVersion": "any",
-        "AssemblyVersion": "1.0.0.12",
+        "AssemblyVersion": "1.0.0.13",
         "Author": "goat",
         "DalamudApiLevel": 8,
         "Description": "This plugin shows the destination zone's concept art while loading.\nNOTE: ONLY LOOKS RIGHT ON 16:9 SCREENS! The concept art is not any bigger, and we can't expand/fix it. Sorry!\nSupport API8 instead of API7 fork:goat",
