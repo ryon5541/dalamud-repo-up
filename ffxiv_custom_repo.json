@@ -223,7 +223,7 @@
     },
     {
         "ApplicableVersion": "any",
-        "AssemblyVersion": "1.0.0.2",
+        "AssemblyVersion": "1.0.0.3",
         "Author": "Aida Enna",
         "DalamudApiLevel": 8,
         "Description": "Adds various commands to need, greed, or pass on all loot.",
@@ -235,7 +235,7 @@
         "InternalName": "LootMaster",
         "IsHide": "False",
         "IsTestingExclusive": "False",
-        "LastUpdated": 1676112872,
+        "LastUpdated": 1677488288,
         "Name": "Loot Master",
         "RepoUrl": "https://github.com/Aida-Enna/XIVPlugins",
         "Tags": [
@@ -441,7 +441,7 @@
     },
     {
         "ApplicableVersion": "any",
-        "AssemblyVersion": "1.0.0.2",
+        "AssemblyVersion": "1.0.0.3",
         "Author": "Aida Enna",
         "DalamudApiLevel": 8,
         "Description": "Adds various commands to need, greed, or pass on all loot.",
@@ -453,7 +453,7 @@
         "InternalName": "LootMaster",
         "IsHide": "False",
         "IsTestingExclusive": "False",
-        "LastUpdated": 1676112872,
+        "LastUpdated": 1677488288,
         "Name": "Loot Master",
         "RepoUrl": "https://github.com/Aida-Enna/XIVPlugins",
         "Tags": [
