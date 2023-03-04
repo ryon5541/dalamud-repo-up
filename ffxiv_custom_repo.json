@@ -181,7 +181,7 @@
         "DownloadLinkInstall": "https://github.com/ryon5541/Plugins/raw/master/plugins/Tourist2/latest.zip",
         "DownloadLinkTesting": "https://github.com/ryon5541/Plugins/raw/master/plugins/Tourist2/latest.zip",
         "DownloadLinkUpdate": "https://github.com/ryon5541/Plugins/raw/master/plugins/Tourist2/latest.zip",
-        "IconUrl": "https://raw.githubusercontent.com/ryon5541/Plugins/test/plugins/Tourist2/icon.png",
+        "IconUrl": "https://raw.githubusercontent.com/ryon5541/Plugins/master/plugins/Tourist2/icon.png",
         "InternalName": "Tourist2",
         "IsHide": "False",
         "IsTestingExclusive": "False",
