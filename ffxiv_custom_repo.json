@@ -340,26 +340,6 @@
         ]
     },
     {
-        "ApplicableVersion": "any",
-        "AssemblyVersion": "0.6.6.1",
-        "Author": "Ottermandias, Adam, Wintermute",
-        "DalamudApiLevel": 8,
-        "Description": "Runtime mod loader and manager.",
-        "DownloadCount": 0,
-        "DownloadLinkInstall": "https://github.com/xivdev/Penumbra/releases/download/0.6.6.1/Penumbra.zip",
-        "DownloadLinkTesting": "https://github.com/xivdev/Penumbra/releases/download/0.6.6.1/Penumbra.zip",
-        "DownloadLinkUpdate": "https://github.com/xivdev/Penumbra/releases/download/0.6.6.1/Penumbra.zip",
-        "IconUrl": "https://raw.githubusercontent.com/xivdev/Penumbra/master/images/icon.png",
-        "InternalName": "Penumbra",
-        "IsHide": "False",
-        "IsTestingExclusive": "False",
-        "LoadPriority": 69420,
-        "LoadRequiredState": 2,
-        "LoadSync": true,
-        "Name": "Penumbra",
-        "RepoUrl": "https://github.com/xivdev/Penumbra"
-    },
-    {
         "AcceptsFeedback": true,
         "ApplicableVersion": "any",
         "AssemblyVersion": "6.1",
