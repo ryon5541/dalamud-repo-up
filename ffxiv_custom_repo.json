@@ -1220,56 +1220,53 @@
     },
     {
         "ApplicableVersion": "any",
-        "AssemblyVersion": "1.1.2.8",
+        "AssemblyVersion": "1.0.1.5",
+        "Author": "UnknownX",
+        "CategoryTags": [],
+        "DalamudApiLevel": 8,
+        "Description": "This plugin is available as an option in ReAction now.",
+        "DownloadCount": 0,
+        "DownloadLinkInstall": "https://github.com/UnknownX7/DalamudPluginRepo/raw/master/plugins/Fractionality/latest.zip",
+        "DownloadLinkTesting": "https://github.com/UnknownX7/DalamudPluginRepo/raw/master/plugins/Fractionality/latest.zip",
+        "DownloadLinkUpdate": "https://github.com/UnknownX7/DalamudPluginRepo/raw/master/plugins/Fractionality/latest.zip",
+        "IconUrl": "",
+        "ImageUrls": [
+            ""
+        ],
+        "InternalName": "Fractionality",
+        "IsHide": false,
+        "IsTestingExclusive": false,
+        "Name": "Fractionality",
+        "Punchline": "DEPRECATED",
+        "RepoUrl": "https://github.com/UnknownX7/Fractionality"
+    },
+    {
+        "ApplicableVersion": "any",
+        "AssemblyVersion": "2.0.3.6",
         "Author": "UnknownX",
         "CategoryTags": [
             "utility"
         ],
         "DalamudApiLevel": 8,
-        "Description": "oob oob",
+        "Description": "A simple camera editor to change various game defaults such as zoom and fov.\nThis is a zoom hack, if you aren't comfortable with that fact, don't install it.",
         "DownloadCount": 0,
-        "DownloadLinkInstall": "https://github.com/UnknownX7/DalamudPluginRepo/raw/master/plugins/OOBlugin/latest.zip",
-        "DownloadLinkTesting": "https://github.com/UnknownX7/DalamudPluginRepo/raw/master/plugins/OOBlugin/latest.zip",
-        "DownloadLinkUpdate": "https://github.com/UnknownX7/DalamudPluginRepo/raw/master/plugins/OOBlugin/latest.zip",
-        "IconUrl": "",
+        "DownloadLinkInstall": "https://github.com/UnknownX7/DalamudPluginRepo/raw/master/plugins/Cammy/latest.zip",
+        "DownloadLinkTesting": "https://github.com/UnknownX7/DalamudPluginRepo/raw/master/plugins/Cammy/latest.zip",
+        "DownloadLinkUpdate": "https://github.com/UnknownX7/DalamudPluginRepo/raw/master/plugins/Cammy/latest.zip",
+        "IconUrl": "https://raw.githubusercontent.com/UnknownX7/DalamudPluginRepo/master/plugins/Cammy/images/icon.png",
         "ImageUrls": [
-            ""
+            "https://raw.githubusercontent.com/UnknownX7/DalamudPluginRepo/master/plugins/Cammy/images/image1.png"
         ],
-        "InternalName": "OOBlugin",
+        "InternalName": "Cammy",
         "IsHide": false,
         "IsTestingExclusive": false,
-        "Name": "OOBlugin",
-        "Punchline": "oob oob",
-        "RepoUrl": "https://github.com/UnknownX7/OOBlugin"
+        "Name": "Cammy",
+        "Punchline": "A simple editor for the game's camera settings",
+        "RepoUrl": "https://github.com/UnknownX7/Cammy"
     },
     {
         "ApplicableVersion": "any",
-        "AssemblyVersion": "0.5.0.9",
-        "Author": "UnknownX",
-        "CategoryTags": [
-            "jobs",
-            "utility"
-        ],
-        "DalamudApiLevel": 8,
-        "Description": "Reduces the effects of lag on certain aspects of the game, such as weaving and statuses. Usable as an alternative, or in addition, to XivAlexander.",
-        "DownloadCount": 0,
-        "DownloadLinkInstall": "https://github.com/UnknownX7/DalamudPluginRepo/raw/master/plugins/NoClippy/latest.zip",
-        "DownloadLinkTesting": "https://github.com/UnknownX7/DalamudPluginRepo/raw/master/plugins/NoClippy/latest.zip",
-        "DownloadLinkUpdate": "https://github.com/UnknownX7/DalamudPluginRepo/raw/master/plugins/NoClippy/latest.zip",
-        "IconUrl": "",
-        "ImageUrls": [
-            ""
-        ],
-        "InternalName": "NoClippy",
-        "IsHide": false,
-        "IsTestingExclusive": false,
-        "Name": "NoClippy",
-        "Punchline": "Reduces the effects of lag on certain aspects of the game, and can show GCD clips",
-        "RepoUrl": "https://github.com/UnknownX7/NoClippy"
-    },
-    {
-        "ApplicableVersion": "any",
-        "AssemblyVersion": "1.3.0.0",
+        "AssemblyVersion": "1.3.1.0",
         "Author": "UnknownX",
         "CategoryTags": [
             "jobs"
@@ -1293,25 +1290,27 @@
     },
     {
         "ApplicableVersion": "any",
-        "AssemblyVersion": "1.0.1.5",
+        "AssemblyVersion": "1.1.2.8",
         "Author": "UnknownX",
-        "CategoryTags": [],
+        "CategoryTags": [
+            "utility"
+        ],
         "DalamudApiLevel": 8,
-        "Description": "This plugin is available as an option in ReAction now.",
+        "Description": "oob oob",
         "DownloadCount": 0,
-        "DownloadLinkInstall": "https://github.com/UnknownX7/DalamudPluginRepo/raw/master/plugins/Fractionality/latest.zip",
-        "DownloadLinkTesting": "https://github.com/UnknownX7/DalamudPluginRepo/raw/master/plugins/Fractionality/latest.zip",
-        "DownloadLinkUpdate": "https://github.com/UnknownX7/DalamudPluginRepo/raw/master/plugins/Fractionality/latest.zip",
+        "DownloadLinkInstall": "https://github.com/UnknownX7/DalamudPluginRepo/raw/master/plugins/OOBlugin/latest.zip",
+        "DownloadLinkTesting": "https://github.com/UnknownX7/DalamudPluginRepo/raw/master/plugins/OOBlugin/latest.zip",
+        "DownloadLinkUpdate": "https://github.com/UnknownX7/DalamudPluginRepo/raw/master/plugins/OOBlugin/latest.zip",
         "IconUrl": "",
         "ImageUrls": [
             ""
         ],
-        "InternalName": "Fractionality",
+        "InternalName": "OOBlugin",
         "IsHide": false,
         "IsTestingExclusive": false,
-        "Name": "Fractionality",
-        "Punchline": "DEPRECATED",
-        "RepoUrl": "https://github.com/UnknownX7/Fractionality"
+        "Name": "OOBlugin",
+        "Punchline": "oob oob",
+        "RepoUrl": "https://github.com/UnknownX7/OOBlugin"
     },
     {
         "ApplicableVersion": "any",
@@ -1339,27 +1338,28 @@
     },
     {
         "ApplicableVersion": "any",
-        "AssemblyVersion": "2.0.3.6",
+        "AssemblyVersion": "0.5.0.9",
         "Author": "UnknownX",
         "CategoryTags": [
+            "jobs",
             "utility"
         ],
         "DalamudApiLevel": 8,
-        "Description": "A simple camera editor to change various game defaults such as zoom and fov.\nThis is a zoom hack, if you aren't comfortable with that fact, don't install it.",
+        "Description": "Reduces the effects of lag on certain aspects of the game, such as weaving and statuses. Usable as an alternative, or in addition, to XivAlexander.",
         "DownloadCount": 0,
-        "DownloadLinkInstall": "https://github.com/UnknownX7/DalamudPluginRepo/raw/master/plugins/Cammy/latest.zip",
-        "DownloadLinkTesting": "https://github.com/UnknownX7/DalamudPluginRepo/raw/master/plugins/Cammy/latest.zip",
-        "DownloadLinkUpdate": "https://github.com/UnknownX7/DalamudPluginRepo/raw/master/plugins/Cammy/latest.zip",
-        "IconUrl": "https://raw.githubusercontent.com/UnknownX7/DalamudPluginRepo/master/plugins/Cammy/images/icon.png",
+        "DownloadLinkInstall": "https://github.com/UnknownX7/DalamudPluginRepo/raw/master/plugins/NoClippy/latest.zip",
+        "DownloadLinkTesting": "https://github.com/UnknownX7/DalamudPluginRepo/raw/master/plugins/NoClippy/latest.zip",
+        "DownloadLinkUpdate": "https://github.com/UnknownX7/DalamudPluginRepo/raw/master/plugins/NoClippy/latest.zip",
+        "IconUrl": "",
         "ImageUrls": [
-            "https://raw.githubusercontent.com/UnknownX7/DalamudPluginRepo/master/plugins/Cammy/images/image1.png"
+            ""
         ],
-        "InternalName": "Cammy",
+        "InternalName": "NoClippy",
         "IsHide": false,
         "IsTestingExclusive": false,
-        "Name": "Cammy",
-        "Punchline": "A simple editor for the game's camera settings",
-        "RepoUrl": "https://github.com/UnknownX7/Cammy"
+        "Name": "NoClippy",
+        "Punchline": "Reduces the effects of lag on certain aspects of the game, and can show GCD clips",
+        "RepoUrl": "https://github.com/UnknownX7/NoClippy"
     },
     {
         "ApplicableVersion": "any",
