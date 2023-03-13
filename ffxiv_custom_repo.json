@@ -1338,7 +1338,7 @@
     },
     {
         "ApplicableVersion": "any",
-        "AssemblyVersion": "0.5.0.9",
+        "AssemblyVersion": "0.5.0.10",
         "Author": "UnknownX",
         "CategoryTags": [
             "jobs",
