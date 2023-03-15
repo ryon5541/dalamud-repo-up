@@ -233,7 +233,6 @@
         "IsTestingExclusive": "False",
         "LastUpdated": 1673725312,
         "Name": "Auto Login",
-        "Punchline": "Someone in our group wouldn't eat their food. I got tired of telling them to. Now the plugin does.",
         "RepoUrl": "https://github.com/Aida-Enna/XIVPlugins",
         "Tags": [
             "login",
@@ -257,6 +256,7 @@
         "IsTestingExclusive": "False",
         "LastUpdated": 1673725312,
         "Name": "FATE Auto Sync",
+        "Punchline": "Just waiting till I get banned so square can implement this ingame",
         "RepoUrl": "https://github.com/Aida-Enna/XIVPlugins",
         "Tags": [
             "lvlsync",
@@ -282,6 +282,7 @@
         "IsTestingExclusive": "False",
         "LastUpdated": 1677488288,
         "Name": "Food Check",
+        "Punchline": "Someone in our group wouldn't eat their food. I got tired of telling them to. Now the plugin does.",
         "RepoUrl": "https://github.com/Aida-Enna/XIVPlugins",
         "Tags": [
             "food",
@@ -306,6 +307,7 @@
         "IsTestingExclusive": "False",
         "LastUpdated": 1677488288,
         "Name": "Loot Master",
+        "Punchline": "Dungeon loot made lazy.",
         "RepoUrl": "https://github.com/Aida-Enna/XIVPlugins",
         "Tags": [
             "loot",
@@ -328,6 +330,7 @@
         "IsTestingExclusive": "False",
         "LastUpdated": 1677488288,
         "Name": "Potato Famine 2",
+        "Punchline": "Square, please give us miqote sandboxes and au ra heating lamps. We will pay real money.",
         "RepoUrl": "https://github.com/Aida-Enna/XIVPlugins",
         "Tags": [
             "lala",
@@ -481,7 +484,6 @@
         "IsTestingExclusive": "False",
         "LastUpdated": 1673725312,
         "Name": "Auto Login",
-        "Punchline": "Someone in our group wouldn't eat their food. I got tired of telling them to. Now the plugin does.",
         "RepoUrl": "https://github.com/Aida-Enna/XIVPlugins",
         "Tags": [
             "login",
@@ -505,6 +507,7 @@
         "IsTestingExclusive": "False",
         "LastUpdated": 1673725312,
         "Name": "FATE Auto Sync",
+        "Punchline": "Just waiting till I get banned so square can implement this ingame",
         "RepoUrl": "https://github.com/Aida-Enna/XIVPlugins",
         "Tags": [
             "lvlsync",
@@ -530,6 +533,7 @@
         "IsTestingExclusive": "False",
         "LastUpdated": 1677488288,
         "Name": "Food Check",
+        "Punchline": "Someone in our group wouldn't eat their food. I got tired of telling them to. Now the plugin does.",
         "RepoUrl": "https://github.com/Aida-Enna/XIVPlugins",
         "Tags": [
             "food",
@@ -554,6 +558,7 @@
         "IsTestingExclusive": "False",
         "LastUpdated": 1677488288,
         "Name": "Loot Master",
+        "Punchline": "Dungeon loot made lazy.",
         "RepoUrl": "https://github.com/Aida-Enna/XIVPlugins",
         "Tags": [
             "loot",
@@ -576,6 +581,7 @@
         "IsTestingExclusive": "False",
         "LastUpdated": 1677488288,
         "Name": "Potato Famine 2",
+        "Punchline": "Square, please give us miqote sandboxes and au ra heating lamps. We will pay real money.",
         "RepoUrl": "https://github.com/Aida-Enna/XIVPlugins",
         "Tags": [
             "lala",
