@@ -150,6 +150,35 @@
     {
         "AcceptsFeedback": true,
         "ApplicableVersion": "any",
+        "AssemblyVersion": "1.1.1.4",
+        "Author": "MidoriKami",
+        "CanUnloadAsync": false,
+        "CategoryTags": [
+            "Utility",
+            "UI"
+        ],
+        "DalamudApiLevel": 8,
+        "Description": "This plugin allows you to configure the transparency of hotbar skills that you can't use due to being sync'd or under-leveled.\n\n/ksync help ??Display all available commands",
+        "DownloadLinkInstall": "https://github.com/ryon5541/Plugins/raw/master/plugins/KitchenSync2/latest.zip",
+        "DownloadLinkTesting": "https://github.com/ryon5541/Plugins/raw/master/plugins/KitchenSync2/latest.zip",
+        "DownloadLinkUpdate": "https://github.com/ryon5541/Plugins/raw/master/plugins/KitchenSync2/latest.zip",
+        "IconUrl": "https://raw.githubusercontent.com/ryon5541/Plugins/master/plugins/KitchenSync2/icon.png",
+        "InternalName": "KitchenSync2",
+        "IsHide": "False",
+        "IsTestingExclusive": "False",
+        "LoadPriority": 0,
+        "LoadRequiredState": 0,
+        "LoadSync": false,
+        "Name": "Kitchen Sync2",
+        "Punchline": "Make hotbar skills that you cant use transparent when sync'd",
+        "RepoUrl": "https://github.com/MidoriKami/KitchenSync",
+        "Tags": [
+            "utility"
+        ]
+    },
+    {
+        "AcceptsFeedback": true,
+        "ApplicableVersion": "any",
         "AssemblyVersion": "0.0.0.7",
         "Author": "Aulus mal Asina",
         "DalamudApiLevel": 8,
