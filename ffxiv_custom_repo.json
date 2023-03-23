@@ -75,6 +75,28 @@
         "Punchline": "Collect and assign ventures to your retainers from the comfort of your bed."
     },
     {
+        "AcceptsFeedback": true,
+        "ApplicableVersion": "any",
+        "AssemblyVersion": "1.2.7",
+        "Author": "ascclemens",
+        "CanUnloadAsync": false,
+        "DalamudApiLevel": 8,
+        "Description": "Filter the party finder better.\n\nAll vanilla filtering is available, plus:\n\n- Create filter presets to easily switch between\n- Whitelist/blacklist specific duties and categories\n- Add character names to hide PFs from\n- Remove PFs above maximum item level\n- Filter on item level range\n- Filter on multiple jobs and slots (ex. MCH + GNB available)\n- Support API8 instead of API7 fork:ascclemens ",
+        "DownloadLinkInstall": "https://github.com/ryon5541/Plugins/raw/master/plugins/BetterPartyFinder2/latest.zip",
+        "DownloadLinkTesting": "https://github.com/ryon5541/Plugins/raw/master/plugins/BetterPartyFinder2/latest.zip",
+        "DownloadLinkUpdate": "https://github.com/ryon5541/Plugins/raw/master/plugins/BetterPartyFinder2/latest.zip",
+        "IconUrl": "https://raw.githubusercontent.com/ryon5541/Plugins/master/plugins/BetterPartyFinder2/icon.png",
+        "InternalName": "BetterPartyFinder2",
+        "IsHide": "False",
+        "IsTestingExclusive": "False",
+        "LoadPriority": 0,
+        "LoadRequiredState": 0,
+        "LoadSync": false,
+        "Name": "Better Party Finder2",
+        "Punchline": "Use advanced Party Finder filter presets.",
+        "RepoUrl": "https://git.annaclemens.io/ascclemens/BetterPartyFinder"
+    },
+    {
         "AcceptsFeedback": false,
         "ApplicableVersion": "any",
         "AssemblyVersion": "0.1.0.115",
