@@ -1396,9 +1396,9 @@
         "DalamudApiLevel": 8,
         "Description": "A simple camera editor to change various game defaults such as zoom and fov.\nThis is a zoom hack, if you aren't comfortable with that fact, don't install it.",
         "DownloadCount": 0,
-        "DownloadLinkInstall": "https://github.com/UnknownX7/Cammy/releases/latest/download/latest.zip",
-        "DownloadLinkTesting": "https://github.com/UnknownX7/Cammy/releases/latest/download/latest.zip",
-        "DownloadLinkUpdate": "https://github.com/UnknownX7/Cammy/releases/latest/download/latest.zip",
+        "DownloadLinkInstall": "https://github.com/UnknownX7/Cammy/releases/download/v2.0.3.6/latest.zip",
+        "DownloadLinkTesting": "https://github.com/UnknownX7/Cammy/releases/download/v2.0.3.6/latest.zip",
+        "DownloadLinkUpdate": "https://github.com/UnknownX7/Cammy/releases/download/v2.0.3.6/latest.zip",
         "IconUrl": "https://raw.githubusercontent.com/UnknownX7/DalamudPluginRepo/master/plugins/Cammy/images/icon.png",
         "ImageUrls": [
             "https://raw.githubusercontent.com/UnknownX7/DalamudPluginRepo/master/plugins/Cammy/images/image1.png"
@@ -1418,9 +1418,9 @@
         "DalamudApiLevel": 8,
         "Description": "This plugin is available as an option in ReAction now.",
         "DownloadCount": 0,
-        "DownloadLinkInstall": "https://github.com/UnknownX7/Fractionality/releases/latest/download/latest.zip",
-        "DownloadLinkTesting": "https://github.com/UnknownX7/Fractionality/releases/latest/download/latest.zip",
-        "DownloadLinkUpdate": "https://github.com/UnknownX7/Fractionality/releases/latest/download/latest.zip",
+        "DownloadLinkInstall": "https://github.com/UnknownX7/Fractionality/releases/download/v1.0.1.5/latest.zip",
+        "DownloadLinkTesting": "https://github.com/UnknownX7/Fractionality/releases/download/v1.0.1.5/latest.zip",
+        "DownloadLinkUpdate": "https://github.com/UnknownX7/Fractionality/releases/download/v1.0.1.5/latest.zip",
         "IconUrl": "",
         "ImageUrls": [
             ""
@@ -1443,9 +1443,9 @@
         "DalamudApiLevel": 8,
         "Description": "Reduces the effects of lag on certain aspects of the game, such as weaving and statuses. Usable as an alternative, or in addition, to XivAlexander.",
         "DownloadCount": 0,
-        "DownloadLinkInstall": "https://github.com/UnknownX7/NoClippy/releases/latest/download/latest.zip",
-        "DownloadLinkTesting": "https://github.com/UnknownX7/NoClippy/releases/latest/download/latest.zip",
-        "DownloadLinkUpdate": "https://github.com/UnknownX7/NoClippy/releases/latest/download/latest.zip",
+        "DownloadLinkInstall": "https://github.com/UnknownX7/NoClippy/releases/download/v0.5.0.11/latest.zip",
+        "DownloadLinkTesting": "https://github.com/UnknownX7/NoClippy/releases/download/v0.5.0.11/latest.zip",
+        "DownloadLinkUpdate": "https://github.com/UnknownX7/NoClippy/releases/download/v0.5.0.11/latest.zip",
         "IconUrl": "",
         "ImageUrls": [
             ""
@@ -1467,9 +1467,9 @@
         "DalamudApiLevel": 8,
         "Description": "An interface for browsing and managing third party repositories.",
         "DownloadCount": 0,
-        "DownloadLinkInstall": "https://github.com/UnknownX7/DalamudRepoBrowser/releases/latest/download/latest.zip",
-        "DownloadLinkTesting": "https://github.com/UnknownX7/DalamudRepoBrowser/releases/latest/download/latest.zip",
-        "DownloadLinkUpdate": "https://github.com/UnknownX7/DalamudRepoBrowser/releases/latest/download/latest.zip",
+        "DownloadLinkInstall": "https://github.com/UnknownX7/DalamudRepoBrowser/releases/download/v2.0.3.2/latest.zip",
+        "DownloadLinkTesting": "https://github.com/UnknownX7/DalamudRepoBrowser/releases/download/v2.0.3.2/latest.zip",
+        "DownloadLinkUpdate": "https://github.com/UnknownX7/DalamudRepoBrowser/releases/download/v2.0.3.2/latest.zip",
         "IconUrl": "",
         "ImageUrls": [
             ""
@@ -1491,9 +1491,9 @@
         "DalamudApiLevel": 8,
         "Description": "Improves aspects of the battle system with action stacks (like MOAction) and various QoL settings.",
         "DownloadCount": 0,
-        "DownloadLinkInstall": "https://github.com/UnknownX7/ReAction/releases/latest/download/latest.zip",
-        "DownloadLinkTesting": "https://github.com/UnknownX7/ReAction/releases/latest/download/latest.zip",
-        "DownloadLinkUpdate": "https://github.com/UnknownX7/ReAction/releases/latest/download/latest.zip",
+        "DownloadLinkInstall": "https://github.com/UnknownX7/ReAction/releases/download/v1.3.2.1/latest.zip",
+        "DownloadLinkTesting": "https://github.com/UnknownX7/ReAction/releases/download/v1.3.2.1/latest.zip",
+        "DownloadLinkUpdate": "https://github.com/UnknownX7/ReAction/releases/download/v1.3.2.1/latest.zip",
         "IconUrl": "",
         "ImageUrls": [
             ""
@@ -1515,9 +1515,9 @@
         "DalamudApiLevel": 8,
         "Description": "oob oob",
         "DownloadCount": 0,
-        "DownloadLinkInstall": "https://github.com/UnknownX7/OOBlugin/releases/latest/download/latest.zip",
-        "DownloadLinkTesting": "https://github.com/UnknownX7/OOBlugin/releases/latest/download/latest.zip",
-        "DownloadLinkUpdate": "https://github.com/UnknownX7/OOBlugin/releases/latest/download/latest.zip",
+        "DownloadLinkInstall": "https://github.com/UnknownX7/OOBlugin/releases/download/v1.1.2.8/latest.zip",
+        "DownloadLinkTesting": "https://github.com/UnknownX7/OOBlugin/releases/download/v1.1.2.8/latest.zip",
+        "DownloadLinkUpdate": "https://github.com/UnknownX7/OOBlugin/releases/download/v1.1.2.8/latest.zip",
         "IconUrl": "",
         "ImageUrls": [
             ""
