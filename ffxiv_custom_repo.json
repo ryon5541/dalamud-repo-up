@@ -1571,7 +1571,7 @@
         "InternalName": "WoLua",
         "IsHide": false,
         "IsTestingExclusive": false,
-        "LastUpdated": "1680504577",
+        "LastUpdated": "1680504863",
         "Name": "WoLua",
         "RepoUrl": "https://github.com/PrincessRTFM/WoLua"
     },
@@ -1588,13 +1588,13 @@
         "InternalName": "XIVComboVX",
         "IsHide": false,
         "IsTestingExclusive": false,
-        "LastUpdated": "1680504577",
+        "LastUpdated": "1680504863",
         "Name": "XIV Combo Very Expanded",
         "RepoUrl": "https://github.com/PrincessRTFM/XIVComboPlugin"
     },
     {
         "ApplicableVersion": "any",
-        "AssemblyVersion": "7.0.8488.31394",
+        "AssemblyVersion": "7.0.8493.12414",
         "Author": "VariableVixen",
         "DalamudApiLevel": 8,
         "Description": "Adds tiny and simple but useful chat commands, and nothing more. It doesn't even have a UI.",
@@ -1605,7 +1605,7 @@
         "InternalName": "TinyCmds",
         "IsHide": false,
         "IsTestingExclusive": false,
-        "LastUpdated": "1680504577",
+        "LastUpdated": "1680504863",
         "Name": "TinyCommands",
         "RepoUrl": "https://github.com/PrincessRTFM/TinyCommands"
     },
