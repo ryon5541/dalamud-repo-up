@@ -1375,7 +1375,7 @@
         ],
         "DalamudApiLevel": 8,
         "Description": "A simple camera editor to change various game defaults such as zoom and fov.\nThis is a zoom hack, if you aren't comfortable with that fact, don't install it.",
-        "DownloadCount": 480,
+        "DownloadCount": 494,
         "DownloadLinkInstall": "https://github.com/UnknownX7/Cammy/releases/download/v2.0.3.6/latest.zip",
         "DownloadLinkTesting": "https://github.com/UnknownX7/Cammy/releases/download/v2.0.3.6/latest.zip",
         "DownloadLinkUpdate": "https://github.com/UnknownX7/Cammy/releases/download/v2.0.3.6/latest.zip",
@@ -1389,6 +1389,30 @@
         "Name": "Cammy",
         "Punchline": "A simple editor for the game's camera settings",
         "RepoUrl": "https://github.com/UnknownX7/Cammy"
+    },
+    {
+        "ApplicableVersion": "any",
+        "AssemblyVersion": "1.1.2.8",
+        "Author": "UnknownX",
+        "CategoryTags": [
+            "utility"
+        ],
+        "DalamudApiLevel": 8,
+        "Description": "oob oob",
+        "DownloadCount": 132,
+        "DownloadLinkInstall": "https://github.com/UnknownX7/OOBlugin/releases/download/v1.1.2.8/latest.zip",
+        "DownloadLinkTesting": "https://github.com/UnknownX7/OOBlugin/releases/download/v1.1.2.8/latest.zip",
+        "DownloadLinkUpdate": "https://github.com/UnknownX7/OOBlugin/releases/download/v1.1.2.8/latest.zip",
+        "IconUrl": "",
+        "ImageUrls": [
+            ""
+        ],
+        "InternalName": "OOBlugin",
+        "IsHide": false,
+        "IsTestingExclusive": false,
+        "Name": "OOBlugin",
+        "Punchline": "oob oob",
+        "RepoUrl": "https://github.com/UnknownX7/OOBlugin"
     },
     {
         "ApplicableVersion": "any",
@@ -1414,6 +1438,30 @@
     },
     {
         "ApplicableVersion": "any",
+        "AssemblyVersion": "1.3.3.2",
+        "Author": "UnknownX",
+        "CategoryTags": [
+            "jobs"
+        ],
+        "DalamudApiLevel": 8,
+        "Description": "Improves aspects of the battle system with action stacks (like MOAction) and various QoL settings.",
+        "DownloadCount": 790,
+        "DownloadLinkInstall": "https://github.com/UnknownX7/ReAction/releases/download/v1.3.3.2/latest.zip",
+        "DownloadLinkTesting": "https://github.com/UnknownX7/ReAction/releases/download/v1.3.3.2/latest.zip",
+        "DownloadLinkUpdate": "https://github.com/UnknownX7/ReAction/releases/download/v1.3.3.2/latest.zip",
+        "IconUrl": "",
+        "ImageUrls": [
+            ""
+        ],
+        "InternalName": "ReAction",
+        "IsHide": false,
+        "IsTestingExclusive": false,
+        "Name": "ReAction",
+        "Punchline": "QoL for the battle system.",
+        "RepoUrl": "https://github.com/UnknownX7/ReAction"
+    },
+    {
+        "ApplicableVersion": "any",
         "AssemblyVersion": "0.5.0.12",
         "Author": "UnknownX",
         "CategoryTags": [
@@ -1422,7 +1470,7 @@
         ],
         "DalamudApiLevel": 8,
         "Description": "Reduces the effects of lag on certain aspects of the game, such as weaving and statuses. Usable as an alternative, or in addition, to XivAlexander.",
-        "DownloadCount": 11711,
+        "DownloadCount": 11902,
         "DownloadLinkInstall": "https://github.com/UnknownX7/NoClippy/releases/download/v0.5.0.12/latest.zip",
         "DownloadLinkTesting": "https://github.com/UnknownX7/NoClippy/releases/download/v0.5.0.12/latest.zip",
         "DownloadLinkUpdate": "https://github.com/UnknownX7/NoClippy/releases/download/v0.5.0.12/latest.zip",
@@ -1446,7 +1494,7 @@
         ],
         "DalamudApiLevel": 8,
         "Description": "An interface for browsing and managing third party repositories.",
-        "DownloadCount": 295,
+        "DownloadCount": 305,
         "DownloadLinkInstall": "https://github.com/UnknownX7/DalamudRepoBrowser/releases/download/v2.0.3.2/latest.zip",
         "DownloadLinkTesting": "https://github.com/UnknownX7/DalamudRepoBrowser/releases/download/v2.0.3.2/latest.zip",
         "DownloadLinkUpdate": "https://github.com/UnknownX7/DalamudRepoBrowser/releases/download/v2.0.3.2/latest.zip",
@@ -1460,54 +1508,6 @@
         "Name": "DalamudRepoBrowser",
         "Punchline": "Browse and add third party repositories in an instant",
         "RepoUrl": "https://github.com/UnknownX7/DalamudRepoBrowser"
-    },
-    {
-        "ApplicableVersion": "any",
-        "AssemblyVersion": "1.3.3.2",
-        "Author": "UnknownX",
-        "CategoryTags": [
-            "jobs"
-        ],
-        "DalamudApiLevel": 8,
-        "Description": "Improves aspects of the battle system with action stacks (like MOAction) and various QoL settings.",
-        "DownloadCount": 0,
-        "DownloadLinkInstall": "https://github.com/UnknownX7/ReAction/releases/download/v1.3.3.2/latest.zip",
-        "DownloadLinkTesting": "https://github.com/UnknownX7/ReAction/releases/download/v1.3.3.2/latest.zip",
-        "DownloadLinkUpdate": "https://github.com/UnknownX7/ReAction/releases/download/v1.3.3.2/latest.zip",
-        "IconUrl": "",
-        "ImageUrls": [
-            ""
-        ],
-        "InternalName": "ReAction",
-        "IsHide": false,
-        "IsTestingExclusive": false,
-        "Name": "ReAction",
-        "Punchline": "QoL for the battle system.",
-        "RepoUrl": "https://github.com/UnknownX7/ReAction"
-    },
-    {
-        "ApplicableVersion": "any",
-        "AssemblyVersion": "1.1.2.8",
-        "Author": "UnknownX",
-        "CategoryTags": [
-            "utility"
-        ],
-        "DalamudApiLevel": 8,
-        "Description": "oob oob",
-        "DownloadCount": 129,
-        "DownloadLinkInstall": "https://github.com/UnknownX7/OOBlugin/releases/download/v1.1.2.8/latest.zip",
-        "DownloadLinkTesting": "https://github.com/UnknownX7/OOBlugin/releases/download/v1.1.2.8/latest.zip",
-        "DownloadLinkUpdate": "https://github.com/UnknownX7/OOBlugin/releases/download/v1.1.2.8/latest.zip",
-        "IconUrl": "",
-        "ImageUrls": [
-            ""
-        ],
-        "InternalName": "OOBlugin",
-        "IsHide": false,
-        "IsTestingExclusive": false,
-        "Name": "OOBlugin",
-        "Punchline": "oob oob",
-        "RepoUrl": "https://github.com/UnknownX7/OOBlugin"
     },
     {
         "ApplicableVersion": "any",
