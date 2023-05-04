@@ -121,59 +121,6 @@
         "RepoUrl": "https://git.annaclemens.io/ascclemens/BetterPartyFinder"
     },
     {
-        "AcceptsFeedback": false,
-        "ApplicableVersion": "any",
-        "AssemblyVersion": "0.1.0.115",
-        "Author": "Asteria Nocturna",
-        "CategoryTags": [
-            "utility"
-        ],
-        "DalamudApiLevel": 8,
-        "Description": "Add a link to teleport to the nearest aetheryte into map link in chat.",
-        "DownloadLinkInstall": "https://github.com/ryon5541/Plugins/raw/master/plugins/Divination.AetheryteLinkInChat/latest.zip",
-        "DownloadLinkTesting": "https://github.com/ryon5541/Plugins/raw/master/plugins/Divination.AetheryteLinkInChat/latest.zip",
-        "DownloadLinkUpdate": "https://github.com/ryon5541/Plugins/raw/master/plugins/Divination.AetheryteLinkInChat/latest.zip",
-        "ImageUrls": [],
-        "InternalName": "Divination.AetheryteLinkInChat",
-        "IsHide": "False",
-        "IsTestingExclusive": "False",
-        "LoadPriority": 0,
-        "LoadRequiredState": 0,
-        "LoadSync": false,
-        "Name": "Divination.AetheryteLinkInChat",
-        "Punchline": "Quick teleport for Mob Hunting",
-        "Tags": [
-            "teleporter"
-        ]
-    },
-    {
-        "AcceptsFeedback": true,
-        "ApplicableVersion": "any",
-        "AssemblyVersion": "0.1.0.35",
-        "Author": "Asteria Nocturna",
-        "CategoryTags": [
-            "social",
-            "utility"
-        ],
-        "DalamudApiLevel": 8,
-        "Description": "Provide simple integration with Faloop. Mob notification in chat.",
-        "DownloadLinkInstall": "https://github.com/ryon5541/Plugins/raw/master/plugins/Divination.FaloopIntegration/latest.zip",
-        "DownloadLinkTesting": "https://github.com/ryon5541/Plugins/raw/master/plugins/Divination.FaloopIntegration/latest.zip",
-        "DownloadLinkUpdate": "https://github.com/ryon5541/Plugins/raw/master/plugins/Divination.FaloopIntegration/latest.zip",
-        "ImageUrls": [],
-        "InternalName": "Divination.FaloopIntegration",
-        "IsHide": "False",
-        "IsTestingExclusive": "False",
-        "LoadPriority": 0,
-        "LoadRequiredState": 2,
-        "LoadSync": false,
-        "Name": "Divination.FaloopIntegration",
-        "Punchline": "Faloop notification in chat",
-        "Tags": [
-            "mobhunt"
-        ]
-    },
-    {
         "AcceptsFeedback": true,
         "ApplicableVersion": "any",
         "AssemblyVersion": "1.1.1.4",
