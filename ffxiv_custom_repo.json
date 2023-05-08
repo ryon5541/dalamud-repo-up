@@ -1728,5 +1728,309 @@
             "plugin",
             "ACT"
         ]
+    },
+    {
+        "AcceptsFeedback": false,
+        "ApplicableVersion": "any",
+        "AssemblyVersion": "0.1.0.1255",
+        "Author": "Asteria Nocturna",
+        "CanUnloadAsync": false,
+        "CategoryTags": [
+            "utility"
+        ],
+        "DalamudApiLevel": 8,
+        "Description": "Add a link to teleport to the nearest aetheryte into map link in chat.",
+        "DownloadCount": 56,
+        "DownloadLinkInstall": "https://xiv.starry.blue/plugins/stable/AetheryteLinkInChat/download",
+        "DownloadLinkTesting": "https://xiv.starry.blue/plugins/testing/AetheryteLinkInChat/download",
+        "IconUrl": null,
+        "ImageUrls": [],
+        "InternalName": "AetheryteLinkInChat",
+        "IsHide": false,
+        "IsTestingExclusive": false,
+        "LastUpdated": 1683541674,
+        "LoadPriority": 0,
+        "LoadRequiredState": 0,
+        "LoadSync": false,
+        "Name": "Divination.AetheryteLinkInChat",
+        "Punchline": "Quick teleport for Mob Hunting",
+        "RepoUrl": "https://github.com/SlashNephy/Divination",
+        "Tags": [
+            "teleporter"
+        ]
+    },
+    {
+        "AcceptsFeedback": false,
+        "ApplicableVersion": "any",
+        "AssemblyVersion": "0.1.0.1255",
+        "Author": "Asteria Nocturna",
+        "CanUnloadAsync": false,
+        "CategoryTags": [
+            "utility"
+        ],
+        "DalamudApiLevel": 8,
+        "Description": "Simple plugin to just add /calc command.",
+        "DownloadCount": 1,
+        "DownloadLinkInstall": "https://xiv.starry.blue/plugins/stable/Calculator/download",
+        "DownloadLinkTesting": "https://xiv.starry.blue/plugins/testing/Calculator/download",
+        "IconUrl": null,
+        "ImageUrls": [],
+        "InternalName": "Calculator",
+        "IsHide": false,
+        "IsTestingExclusive": false,
+        "LastUpdated": 1683542005,
+        "LoadPriority": 0,
+        "LoadRequiredState": 0,
+        "LoadSync": false,
+        "Name": "Divination.Calculator",
+        "Punchline": "/calc 33 - 4",
+        "RepoUrl": "https://github.com/SlashNephy/Divination",
+        "Tags": [
+            "utility"
+        ]
+    },
+    {
+        "AcceptsFeedback": false,
+        "ApplicableVersion": "any",
+        "AssemblyVersion": "0.1.0.1255",
+        "Author": "Asteria Nocturna",
+        "CanUnloadAsync": false,
+        "CategoryTags": [
+            "utility"
+        ],
+        "DalamudApiLevel": 8,
+        "Description": "Tiny tool to inspect game...",
+        "DownloadCount": 1,
+        "DownloadLinkInstall": "https://xiv.starry.blue/plugins/stable/Debugger/download",
+        "DownloadLinkTesting": "https://xiv.starry.blue/plugins/testing/Debugger/download",
+        "IconUrl": null,
+        "ImageUrls": [],
+        "InternalName": "Debugger",
+        "IsHide": false,
+        "IsTestingExclusive": false,
+        "LastUpdated": 1683542133,
+        "LoadPriority": 0,
+        "LoadRequiredState": 0,
+        "LoadSync": false,
+        "Name": "Divination.Debugger",
+        "Punchline": "You don't need this unless you are developer.",
+        "RepoUrl": "https://github.com/SlashNephy/Divination",
+        "Tags": [
+            "Development",
+            "Debug"
+        ]
+    },
+    {
+        "AcceptsFeedback": true,
+        "ApplicableVersion": "any",
+        "AssemblyVersion": "0.1.0.1255",
+        "Author": "Asteria Nocturna",
+        "CanUnloadAsync": false,
+        "CategoryTags": [
+            "social"
+        ],
+        "DalamudApiLevel": 8,
+        "Description": "Dalamud Plugin to support Rich Presence for FFXIV.",
+        "DownloadCount": 4,
+        "DownloadLinkInstall": "https://xiv.starry.blue/plugins/stable/DiscordIntegration/download",
+        "DownloadLinkTesting": "https://xiv.starry.blue/plugins/testing/DiscordIntegration/download",
+        "IconUrl": null,
+        "ImageUrls": [],
+        "InternalName": "DiscordIntegration",
+        "IsHide": false,
+        "IsTestingExclusive": false,
+        "LastUpdated": 1683542000,
+        "LoadPriority": 0,
+        "LoadRequiredState": 2,
+        "LoadSync": false,
+        "Name": "Divination.DiscordIntegration",
+        "Punchline": "Fully-customizable Discord Rich Presence",
+        "RepoUrl": "https://github.com/SlashNephy/Divination",
+        "Tags": [
+            "Discord"
+        ]
+    },
+    {
+        "AcceptsFeedback": true,
+        "ApplicableVersion": "any",
+        "AssemblyVersion": "0.1.0.1255",
+        "Author": "Asteria Nocturna",
+        "CanUnloadAsync": false,
+        "CategoryTags": [
+            "social",
+            "utility"
+        ],
+        "DalamudApiLevel": 8,
+        "Description": "Provide simple integration with Faloop. Mob notification in chat.",
+        "DownloadCount": 36,
+        "DownloadLinkInstall": "https://xiv.starry.blue/plugins/stable/FaloopIntegration/download",
+        "DownloadLinkTesting": "https://xiv.starry.blue/plugins/testing/FaloopIntegration/download",
+        "IconUrl": null,
+        "ImageUrls": [],
+        "InternalName": "FaloopIntegration",
+        "IsHide": false,
+        "IsTestingExclusive": false,
+        "LastUpdated": 1683542086,
+        "LoadPriority": 0,
+        "LoadRequiredState": 2,
+        "LoadSync": false,
+        "Name": "Divination.FaloopIntegration",
+        "Punchline": "Faloop notification in chat",
+        "RepoUrl": "https://github.com/SlashNephy/Divination",
+        "Tags": [
+            "mobhunt"
+        ]
+    },
+    {
+        "AcceptsFeedback": true,
+        "ApplicableVersion": "any",
+        "AssemblyVersion": "0.1.0.1243",
+        "Author": "Horoscope developers",
+        "CanUnloadAsync": false,
+        "CategoryTags": [
+            "social"
+        ],
+        "DalamudApiLevel": 8,
+        "Description": "show instance id in chat when instance changed",
+        "DownloadCount": 0,
+        "DownloadLinkInstall": "https://xiv.starry.blue/plugins/testing/InstanceIDViewer/download",
+        "DownloadLinkTesting": "https://xiv.starry.blue/plugins/testing/InstanceIDViewer/download",
+        "IconUrl": null,
+        "ImageUrls": [],
+        "InternalName": "InstanceIDViewer",
+        "IsHide": false,
+        "IsTestingExclusive": true,
+        "LastUpdated": 1683539651,
+        "LoadPriority": 0,
+        "LoadRequiredState": 2,
+        "LoadSync": false,
+        "Name": "Divination.InstanceIDViewer",
+        "Punchline": "",
+        "RepoUrl": "https://github.com/SlashNephy/Divination",
+        "Tags": [
+            "Discord"
+        ]
+    },
+    {
+        "AcceptsFeedback": true,
+        "ApplicableVersion": "any",
+        "AssemblyVersion": "0.1.0.1255",
+        "Author": "Asteria Nocturna",
+        "CanUnloadAsync": false,
+        "CategoryTags": [
+            "ui",
+            "utility"
+        ],
+        "DalamudApiLevel": 8,
+        "Description": "",
+        "DownloadCount": 2,
+        "DownloadLinkInstall": "https://xiv.starry.blue/plugins/stable/PerfectComplex/download",
+        "DownloadLinkTesting": "https://xiv.starry.blue/plugins/testing/PerfectComplex/download",
+        "IconUrl": null,
+        "ImageUrls": [],
+        "InternalName": "PerfectComplex",
+        "IsHide": false,
+        "IsTestingExclusive": false,
+        "LastUpdated": 1683542039,
+        "LoadPriority": 0,
+        "LoadRequiredState": 2,
+        "LoadSync": false,
+        "Name": "Divination.PerfectComplex",
+        "Punchline": "",
+        "RepoUrl": "https://github.com/SlashNephy/Divination",
+        "Tags": [
+            "[Tag]"
+        ]
+    },
+    {
+        "AcceptsFeedback": true,
+        "ApplicableVersion": "any",
+        "AssemblyVersion": "0.1.0.1107",
+        "Author": "Asteria Nocturna",
+        "CanUnloadAsync": false,
+        "CategoryTags": [
+            "utility"
+        ],
+        "DalamudApiLevel": 8,
+        "Description": "Add /power save, /power balance, /power perf, /monitoroff commands for power management",
+        "DownloadCount": 0,
+        "DownloadLinkInstall": "https://xiv.starry.blue/plugins/testing/PowerUtils/download",
+        "DownloadLinkTesting": "https://xiv.starry.blue/plugins/testing/PowerUtils/download",
+        "IconUrl": null,
+        "ImageUrls": [],
+        "InternalName": "PowerUtils",
+        "IsHide": false,
+        "IsTestingExclusive": true,
+        "LastUpdated": 1682600829,
+        "LoadPriority": 0,
+        "LoadRequiredState": 2,
+        "LoadSync": false,
+        "Name": "Divination.PowerUtils",
+        "Punchline": "Save Energy!",
+        "RepoUrl": "https://github.com/SlashNephy/Divination",
+        "Tags": [
+            "Command"
+        ]
+    },
+    {
+        "AcceptsFeedback": false,
+        "ApplicableVersion": "any",
+        "AssemblyVersion": "0.1.0.1255",
+        "Author": "Asteria Nocturna",
+        "CanUnloadAsync": false,
+        "CategoryTags": [
+            "social"
+        ],
+        "DalamudApiLevel": 8,
+        "Description": "Dalamud Plugin to add tweet function and Twitter timeline in FFXIV chat",
+        "DownloadCount": 1,
+        "DownloadLinkInstall": "https://xiv.starry.blue/plugins/stable/TwitterIntegration/download",
+        "DownloadLinkTesting": "https://xiv.starry.blue/plugins/testing/TwitterIntegration/download",
+        "IconUrl": null,
+        "ImageUrls": [],
+        "InternalName": "TwitterIntegration",
+        "IsHide": false,
+        "IsTestingExclusive": false,
+        "LastUpdated": 1683542032,
+        "LoadPriority": 0,
+        "LoadRequiredState": 0,
+        "LoadSync": false,
+        "Name": "Divination.TwitterIntegration",
+        "Punchline": "Tweet in FFXIV chat.",
+        "RepoUrl": "https://github.com/SlashNephy/Divination",
+        "Tags": [
+            "Twitter"
+        ]
+    },
+    {
+        "AcceptsFeedback": true,
+        "ApplicableVersion": "any",
+        "AssemblyVersion": "0.1.0.1255",
+        "Author": "Asteria Nocturna",
+        "CanUnloadAsync": false,
+        "CategoryTags": [
+            "utility"
+        ],
+        "DalamudApiLevel": 8,
+        "Description": "Add /voiceroid2 command into FFXIV. Require SimpleVoiceroid2Proxy (https://github.com/SlashNephy/SimpleVoiceroid2Proxy).",
+        "DownloadCount": 0,
+        "DownloadLinkInstall": "https://xiv.starry.blue/plugins/stable/Voiceroid2Talker/download",
+        "DownloadLinkTesting": "https://xiv.starry.blue/plugins/testing/Voiceroid2Talker/download",
+        "IconUrl": null,
+        "ImageUrls": [],
+        "InternalName": "Voiceroid2Talker",
+        "IsHide": false,
+        "IsTestingExclusive": false,
+        "LastUpdated": 1683542019,
+        "LoadPriority": 0,
+        "LoadRequiredState": 2,
+        "LoadSync": false,
+        "Name": "Divination.Voiceroid2Talker",
+        "Punchline": "Text-to-Speech for Voiceroid2",
+        "RepoUrl": "https://github.com/SlashNephy/Divination",
+        "Tags": [
+            "Text-to-speech",
+            "Voiceroid"
+        ]
     }
 ]
