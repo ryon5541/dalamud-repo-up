@@ -1761,7 +1761,7 @@
         ],
         "DalamudApiLevel": 8,
         "Description": "Add a link to teleport to the nearest aetheryte into map link in chat.",
-        "DownloadCount": 309,
+        "DownloadCount": 310,
         "DownloadLinkInstall": "https://xiv.starry.blue/plugins/stable/AetheryteLinkInChat/download",
         "DownloadLinkTesting": "https://xiv.starry.blue/plugins/testing/AetheryteLinkInChat/download",
         "IconUrl": null,
