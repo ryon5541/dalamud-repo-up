@@ -883,7 +883,7 @@
     },
     {
         "ApplicableVersion": "any",
-        "AssemblyVersion": "0.2.2.15",
+        "AssemblyVersion": "0.2.2.16",
         "Author": "Chalkos",
         "DalamudApiLevel": 8,
         "Description": "Helper for your day-to-day market operations.",
@@ -894,7 +894,7 @@
         "InternalName": "Marketbuddy",
         "IsHide": false,
         "IsTestingExclusive": false,
-        "LastUpdated": "1632439669",
+        "LastUpdated": "1632449669",
         "Name": "Marketbuddy",
         "Punchline": "Less clicks, more gil!",
         "RepoUrl": "https://github.com/chalkos/Marketbuddy"
