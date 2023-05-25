@@ -1066,7 +1066,7 @@
     },
     {
         "ApplicableVersion": "any",
-        "AssemblyVersion": "1.4.0.16",
+        "AssemblyVersion": "1.4.0.17",
         "Author": "attick, daemitus",
         "DalamudApiLevel": 8,
         "Description": "This plugin condenses combos and mutually exclusive abilities onto a single button. For example, a 1-2-3 combo would become 1-1-1.",
