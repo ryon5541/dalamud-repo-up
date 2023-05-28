@@ -1555,7 +1555,7 @@
     },
     {
         "ApplicableVersion": "any",
-        "AssemblyVersion": "3.0.18.2",
+        "AssemblyVersion": "3.0.18.3",
         "Author": "Aki, k-kz, ele-starshade, damolitionn, Taurenkey, Augporto, grimgal, Genesis-Nova, Tartarga",
         "DalamudApiLevel": 8,
         "Description": "Condenses combos and mutually exclusive abilities onto a single button - and then some.",
@@ -1570,7 +1570,7 @@
         "InternalName": "XIVSlothCombo",
         "IsHide": false,
         "IsTestingExclusive": false,
-        "LastUpdated": "1685046408",
+        "LastUpdated": "1685247388",
         "LoadPriority": 0,
         "Name": "XIVSlothCombo",
         "Punchline": "Condenses combos and mutually exclusive abilities onto a single button - and then some.",
