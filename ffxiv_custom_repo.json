@@ -2092,5 +2092,33 @@
             "Text-to-speech",
             "Voiceroid"
         ]
+    },
+    {
+        "ApplicableVersion": "any",
+        "AssemblyVersion": "1.2.1.0",
+        "Author": "Rayziken",
+        "CategoryTags": [
+            "auto",
+            "summon",
+            "carbuncle",
+            "selene",
+            "eos"
+        ],
+        "DalamudApiLevel": 8,
+        "Description": "Because Boup forgets to summon his pet",
+        "DownloadCount": 0,
+        "DownloadLinkInstall": "https://github.com/eesandoval/DalamudPluginRepo/raw/master/plugins/AutoSummon/latest.zip",
+        "DownloadLinkTesting": "https://github.com/eesandoval/DalamudPluginRepo/raw/master/plugins/AutoSummon/latest.zip",
+        "DownloadLinkUpdate": "https://github.com/eesandoval/DalamudPluginRepo/raw/master/plugins/AutoSummon/latest.zip",
+        "IconUrl": "",
+        "ImageUrls": [
+            ""
+        ],
+        "InternalName": "AutoSummon",
+        "IsHide": false,
+        "IsTestingExclusive": false,
+        "Name": "Auto Summon",
+        "Punchline": "Auto summons carbuncle and fairies",
+        "RepoUrl": "https://github.com/eesandoval/AutoSummon"
     }
 ]
