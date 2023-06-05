@@ -1947,7 +1947,7 @@
         ],
         "DalamudApiLevel": 8,
         "Description": "Provide simple integration with Faloop. Mob notification in chat.",
-        "DownloadCount": 230,
+        "DownloadCount": 231,
         "DownloadLinkInstall": "https://xiv.starry.blue/plugins/stable/FaloopIntegration/download",
         "DownloadLinkTesting": "https://xiv.starry.blue/plugins/testing/FaloopIntegration/download",
         "IconUrl": null,
