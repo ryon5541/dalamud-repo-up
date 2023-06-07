@@ -691,7 +691,7 @@
     },
     {
         "ApplicableVersion": "any",
-        "AssemblyVersion": "2.0.0.0",
+        "AssemblyVersion": "2.0.0.1",
         "Author": "NightmareXIV",
         "DalamudApiLevel": 8,
         "Description": "- One click to teleport to any world or aethernet destination\n- Click on aetheryte shards inside zone map to teleport to them",
@@ -1173,7 +1173,7 @@
     },
     {
         "ApplicableVersion": "any",
-        "AssemblyVersion": "2.0.0.0",
+        "AssemblyVersion": "2.0.0.1",
         "Author": "NightmareXIV",
         "DalamudApiLevel": 8,
         "Description": "- One click to teleport to any world or aethernet destination\n- Click on aetheryte shards inside zone map to teleport to them",
