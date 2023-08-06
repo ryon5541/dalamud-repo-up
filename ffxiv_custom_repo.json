@@ -2276,5 +2276,59 @@
         "Tags": [
             "utility"
         ]
+    },
+    {
+        "AcceptsFeedback": false,
+        "ApplicableVersion": "any",
+        "AssemblyVersion": "999.999.999.999",
+        "Author": "Caraxi, Modified by Ori",
+        "CategoryTags": [
+            "utility",
+            "other"
+        ],
+        "DalamudApiLevel": 8,
+        "Description": "This is the final update of Macro Chain-Ori, there will be no further updates and we strongly recommend you to switch to QoL Bar + Bard Toolbox for syncing emotes and macros.",
+        "DownloadCount": 1359,
+        "DownloadLinkInstall": "https://raw.githubusercontent.com/reckhou/DalamudPlugins-Ori/api6/plugins/MacroChain-Ori/latest.zip",
+        "DownloadLinkTesting": "https://raw.githubusercontent.com/reckhou/DalamudPlugins-Ori/api6/plugins/MacroChain-Ori/latest.zip",
+        "DownloadLinkUpdate": "https://raw.githubusercontent.com/reckhou/DalamudPlugins-Ori/api6/plugins/MacroChain-Ori/latest.zip",
+        "InternalName": "MacroChain-Ori",
+        "IsHide": "False",
+        "IsTestingExclusive": "False",
+        "LoadPriority": 0,
+        "LoadRequiredState": 0,
+        "LoadSync": false,
+        "Name": "Macro Chain-Ori",
+        "Punchline": "THIS IS THE FINAL UPDATE, PLEASE SWITCH TO Bard Toolbox + QoL Bar AS EARLY AS YOU MAY!",
+        "RepoUrl": "https://github.com/reckhou/MacroChain/tree/PartyChatCommands"
+    },
+    {
+        "AcceptsFeedback": false,
+        "ApplicableVersion": "any",
+        "AssemblyVersion": "2.5.3.1",
+        "Author": "akira0245, Ori",
+        "CategoryTags": [
+            "utility",
+            "other"
+        ],
+        "DalamudApiLevel": 8,
+        "Description": "Bard performance using midi files or keyboard.\n- Solo and ensemble mode support\n- Text commands for instrument equip and switch\nSupported by FFXIV Bards & Bands Community: discord.gg/ff14bard",
+        "DownloadCount": 61021,
+        "DownloadLinkInstall": "https://raw.githubusercontent.com/reckhou/DalamudPlugins-Ori/api6/plugins/MidiBard2/latest.zip",
+        "DownloadLinkTesting": "https://raw.githubusercontent.com/reckhou/DalamudPlugins-Ori/api6/plugins/MidiBard2/latest.zip",
+        "DownloadLinkUpdate": "https://raw.githubusercontent.com/reckhou/DalamudPlugins-Ori/api6/plugins/MidiBard2/latest.zip",
+        "IconUrl": "https://i.imgur.com/OSxqew4.png",
+        "ImageUrls": [
+            "https://i.imgur.com/1R13XF0.png"
+        ],
+        "InternalName": "MidiBard2",
+        "IsHide": "False",
+        "IsTestingExclusive": "False",
+        "LoadPriority": 0,
+        "LoadRequiredState": 0,
+        "LoadSync": false,
+        "Name": "MidiBard 2",
+        "Punchline": "Bard performance using midi files or keyboard.\nSupported by FFXIV Bards & Bands Community: discord.gg/ff14bard",
+        "RepoUrl": "https://midibard.org"
     }
 ]
