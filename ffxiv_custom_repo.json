@@ -999,8 +999,8 @@
     },
     {
         "AcceptsFeedback": true,
-        "ApplicableVersion": "2023.07.06.0000.0000",
-        "AssemblyVersion": "0.0.0.104",
+        "ApplicableVersion": "2023.07.26.0000.0000",
+        "AssemblyVersion": "0.0.0.105",
         "Author": "veyn",
         "DalamudApiLevel": 8,
         "Description": "A bunch of utilities to simplify bosses. Currently supports endwalker content. ***very early alpha, use at your own risk***",
