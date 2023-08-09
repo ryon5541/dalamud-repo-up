@@ -2007,7 +2007,7 @@
         ],
         "DalamudApiLevel": 8,
         "Description": "Dalamud Plugin to support Rich Presence for FFXIV.",
-        "DownloadCount": 115,
+        "DownloadCount": 116,
         "DownloadLinkInstall": "https://xiv.starry.blue/plugins/stable/DiscordIntegration/download",
         "DownloadLinkTesting": "https://xiv.starry.blue/plugins/testing/DiscordIntegration/download",
         "IconUrl": null,
