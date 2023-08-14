@@ -807,7 +807,7 @@
     },
     {
         "ApplicableVersion": "any",
-        "AssemblyVersion": "3.0.0.8",
+        "AssemblyVersion": "3.0.0.9",
         "Author": "NightmareXIV",
         "DalamudApiLevel": 8,
         "Description": "",
@@ -1347,7 +1347,7 @@
     },
     {
         "ApplicableVersion": "any",
-        "AssemblyVersion": "3.0.0.8",
+        "AssemblyVersion": "3.0.0.9",
         "Author": "NightmareXIV",
         "DalamudApiLevel": 8,
         "Description": "",
