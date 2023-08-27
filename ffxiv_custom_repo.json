@@ -1671,7 +1671,7 @@
     },
     {
         "ApplicableVersion": "any",
-        "AssemblyVersion": "3.0.18.4",
+        "AssemblyVersion": "3.0.18.5",
         "Author": "Team Sloth",
         "DalamudApiLevel": 8,
         "Description": "Condenses combos and mutually exclusive abilities onto a single button - and then some.",
@@ -1686,7 +1686,7 @@
         "InternalName": "XIVSlothCombo",
         "IsHide": false,
         "IsTestingExclusive": false,
-        "LastUpdated": "1687111875",
+        "LastUpdated": "1693166069",
         "LoadPriority": 0,
         "Name": "XIVSlothCombo",
         "Punchline": "Condenses combos and mutually exclusive abilities onto a single button - and then some.",
