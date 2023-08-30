@@ -2257,46 +2257,6 @@
         "RepoUrl": "https://github.com/eesandoval/AutoSummon"
     },
     {
-        "ApplicableVersion": "any",
-        "AssemblyVersion": "1.3.0.0",
-        "Author": "Windmourn (Updated by Marxvee)",
-        "DalamudApiLevel": 8,
-        "Description": "Automatically skips cutscenes from duties in Duty Roulette: Main Scenario. Togglable.",
-        "DownloadCount": 1337,
-        "DownloadLinkInstall": "https://github.com/Marxvee/DalamudPlugins/raw/main/Plugins/Speedtorium/latest.zip",
-        "DownloadLinkTesting": "https://github.com/Marxvee/DalamudPlugins/raw/main/Plugins/Speedtorium/latest.zip",
-        "DownloadLinkUpdate": "https://github.com/Marxvee/DalamudPlugins/raw/main/Plugins/Speedtorium/latest.zip",
-        "InternalName": "Speedtorium",
-        "IsHide": "False",
-        "IsTestingExclusive": "False",
-        "Name": "Speedtorium",
-        "Punchline": "Skips cutscenes in Duty Roulette: Main Scenario.",
-        "RepoUrl": "https://github.com/Marxvee/DalamudPlugins",
-        "Tags": [
-            "utility"
-        ]
-    },
-    {
-        "ApplicableVersion": "any",
-        "AssemblyVersion": "1.0.0.0",
-        "Author": "Marxvee",
-        "DalamudApiLevel": 8,
-        "Description": "Allows you to instantly leave duties with a single command.",
-        "DownloadCount": 69,
-        "DownloadLinkInstall": "https://github.com/Marxvee/DalamudPlugins/raw/main/Plugins/DutyHop/latest.zip",
-        "DownloadLinkTesting": "https://github.com/Marxvee/DalamudPlugins/raw/main/Plugins/DutyHop/latest.zip",
-        "DownloadLinkUpdate": "https://github.com/Marxvee/DalamudPlugins/raw/main/Plugins/DutyHop/latest.zip",
-        "InternalName": "DutyHop",
-        "IsHide": "False",
-        "IsTestingExclusive": "False",
-        "Name": "DutyHop",
-        "Punchline": "Leave duties like there's no tomorrow.",
-        "RepoUrl": "https://github.com/Marxvee/DalamudPlugins",
-        "Tags": [
-            "utility"
-        ]
-    },
-    {
         "AcceptsFeedback": false,
         "ApplicableVersion": "any",
         "AssemblyVersion": "999.999.999.999",
