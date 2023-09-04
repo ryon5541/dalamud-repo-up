@@ -1713,7 +1713,7 @@
     },
     {
         "ApplicableVersion": "any",
-        "AssemblyVersion": "2.7.0",
+        "AssemblyVersion": "2.8.0",
         "Author": "VariableVixen",
         "DalamudApiLevel": 8,
         "Description": "Write custom chat commands by creating lua scripts",
@@ -1724,7 +1724,7 @@
         "InternalName": "WoLua",
         "IsHide": false,
         "IsTestingExclusive": false,
-        "LastUpdated": "1693733607",
+        "LastUpdated": "1693846390",
         "Name": "WoLua",
         "RepoUrl": "https://github.com/PrincessRTFM/WoLua"
     },
@@ -1741,7 +1741,7 @@
         "InternalName": "XIVComboVX",
         "IsHide": false,
         "IsTestingExclusive": false,
-        "LastUpdated": "1693733607",
+        "LastUpdated": "1693846390",
         "Name": "XIV Combo Very Expanded",
         "RepoUrl": "https://github.com/PrincessRTFM/XIVComboPlugin"
     },
@@ -1758,7 +1758,7 @@
         "InternalName": "TinyCmds",
         "IsHide": false,
         "IsTestingExclusive": false,
-        "LastUpdated": "1693733607",
+        "LastUpdated": "1693846390",
         "Name": "TinyCommands",
         "RepoUrl": "https://github.com/PrincessRTFM/TinyCommands"
     },
