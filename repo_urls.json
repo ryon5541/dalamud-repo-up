@@ -1,5 +1,4 @@
 [
-    "https://love.puni.sh/ment.json",
     "https://raw.githubusercontent.com/ryon5541/Plugins/master/pluginmaster.json",
     "https://raw.githubusercontent.com/jawslouis/MakePlacePlugin/master/MakePlacePlugin.json",
     "https://raw.githubusercontent.com/Aida-Enna/XIVPlugins/main/repo.json",
@@ -23,6 +22,5 @@
     "https://xiv.starry.blue/plugins/master.json",
     "https://raw.githubusercontent.com/eesandoval/DalamudPluginRepo/master/pluginmaster.json",
     "https://raw.githubusercontent.com/reckhou/DalamudPlugins-Ori/api6/pluginmaster.json",
-    "https://raw.githubusercontent.com/Bluefissure/DalamudPlugins/Bluefissure/pluginmaster.json",
-    "https://puni.sh/api/repository/croizat"
+    "https://raw.githubusercontent.com/Bluefissure/DalamudPlugins/Bluefissure/pluginmaster.json"
 ]
