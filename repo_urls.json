@@ -24,5 +24,6 @@
     "https://raw.githubusercontent.com/reckhou/DalamudPlugins-Ori/api6/pluginmaster.json",
     "https://raw.githubusercontent.com/Bluefissure/DalamudPlugins/Bluefissure/pluginmaster.json",
     "https://puni.sh/api/repository/croizat",
-    "https://raw.githubusercontent.com/Deccentric/Dalamud-Depot/main/repo.json"
+    "https://raw.githubusercontent.com/Deccentric/Dalamud-Depot/main/repo.json",
+    "https://puni.sh/api/plugins"
 ]
