@@ -2139,5 +2139,26 @@
             "automation",
             "plugin"
         ]
+    },
+    {
+        "ApplicableVersion": "any",
+        "AssemblyVersion": "0.6.0.0",
+        "Author": "Deccentric",
+        "DalamudApiLevel": 9,
+        "Description": "The all-in-one translator for your social needs.",
+        "DownloadCount": 0,
+        "DownloadLinkInstall": "https://github.com/Deccentric/WhatchaSay/releases/download/v0.6.0.0-alpha/latest.zip",
+        "DownloadLinkTesting": "https://github.com/Deccentric/WhatchaSay/releases/download/v0.6.0.0-alpha/latest.zip",
+        "DownloadLinkUpdate": "https://github.com/Deccentric/WhatchaSay/releases/download/v0.6.0.0-alpha/latest.zip",
+        "IconUrl": "https://raw.githubusercontent.com/Deccentric/Dalamud-Depot/main/icons/whatchasay.png",
+        "InternalName": "WhatchaSay",
+        "IsHide": "False",
+        "IsTestingExclusive": "False",
+        "LastUpdated": 0,
+        "Name": "WhatchaSay",
+        "RepoUrl": "https://github.com/Deccentric/WhatchaSay",
+        "Tags": [
+            "translate"
+        ]
     }
 ]
