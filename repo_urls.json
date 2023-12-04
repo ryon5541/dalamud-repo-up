@@ -26,5 +26,6 @@
     "https://raw.githubusercontent.com/Deccentric/Dalamud-Depot/main/repo.json",
     "https://puni.sh/api/plugins",
     "https://puni.sh/api/repository/veyn",
-    "https://xiv.starry.blue/plugins/master.json"
+    "https://xiv.starry.blue/plugins/master.json",
+    "https://raw.githubusercontent.com/Ottermandias/SeaOfStars/main/repo.json"
 ]
