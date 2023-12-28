@@ -27,5 +27,6 @@
     "https://puni.sh/api/plugins",
     "https://puni.sh/api/repository/veyn",
     "https://xiv.starry.blue/plugins/master.json",
-    "https://raw.githubusercontent.com/Ottermandias/SeaOfStars/main/repo.json"
+    "https://raw.githubusercontent.com/Ottermandias/SeaOfStars/main/repo.json",
+    “https://plugins.carvel.li/“
 ]
